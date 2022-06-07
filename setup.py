@@ -7,7 +7,7 @@ def readme():
 
 PACKAGE_NAME = 'pyhomematic'
 HERE = os.path.abspath(os.path.dirname(__file__))
-VERSION = '0.1.77'
+VERSION = '0.1.88'
 
 PACKAGES = find_packages(exclude=['dist', 'build', 'tests'])
 
@@ -17,8 +17,8 @@ setup(
     name=PACKAGE_NAME,
     version=VERSION,
     license='MIT License',
-    url='https://github.com/danielperna84/pyhomematic',
-    download_url='https://github.com/danielperna84/pyhomematic/tarball/'+VERSION,
+    url='https://github.com/martinhoess/pyhomematic',
+    download_url='https://github.com/martinhoess/pyhomematic/tarball/'+VERSION,
     author='Daniel Perna',
     author_email='danielperna84@gmail.com',
     description='Homematic interface',
