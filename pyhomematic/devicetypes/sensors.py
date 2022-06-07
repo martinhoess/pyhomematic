@@ -1274,6 +1274,7 @@ DEVICETYPES = {
     "HmIPW-SMI55": IPRemoteMotionV2W,
     "HmIP-SMO": MotionIP,
     "HmIP-SMO-A": MotionIP,
+    "HmIP-SMO-A-2": MotionIP,
     "HmIP-SMO-2": MotionIP,
     "HmIP-SPI": PresenceIP,
     "HmIPW-SPI": PresenceIPW,
